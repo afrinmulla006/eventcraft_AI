@@ -1,0 +1,7 @@
+{
+  "name": "EventCraft AI - AI Event Content & Campaign Generator",
+  "description": "Transform any event into platform-ready social posts, newsletters, and campaign copy with Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
